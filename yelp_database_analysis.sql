@@ -1,3 +1,5 @@
+ By Vinita Bharti :
+ 
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
 This is a 2-part assignment. In the first part, you are asked a series of questions that
